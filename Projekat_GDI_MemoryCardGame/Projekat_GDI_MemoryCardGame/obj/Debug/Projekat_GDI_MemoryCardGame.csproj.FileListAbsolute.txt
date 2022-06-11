@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\bin\Debug\Projekat_GDI_MemoryCardGame.exe.config
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\bin\Debug\Projekat_GDI_MemoryCardGame.exe
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\bin\Debug\Projekat_GDI_MemoryCardGame.pdb
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.Game_Window.resources
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.Properties.Resources.resources
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.exe
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.pdb
