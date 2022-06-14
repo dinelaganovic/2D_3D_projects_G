@@ -8,3 +8,4 @@ C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame
 C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.exe
 C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.pdb
+C:\Users\PC\source\repos\Projekat_GDI_MemoryCardGame\Projekat_GDI_MemoryCardGame\obj\Debug\Projekat_GDI_MemoryCardGame.Pocetna.resources

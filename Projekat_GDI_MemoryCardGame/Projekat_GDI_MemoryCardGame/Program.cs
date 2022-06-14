@@ -16,7 +16,7 @@ namespace Projekat_GDI_MemoryCardGame
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Game_Window());
+            Application.Run(new Pocetna());
         }
     }
 }

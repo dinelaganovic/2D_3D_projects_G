@@ -63,6 +63,16 @@ namespace Projekat_GDI_MemoryCardGame.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Apple {
+            get {
+                object obj = ResourceManager.GetObject("Apple", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Card1 {
             get {
                 object obj = ResourceManager.GetObject("Card1", resourceCulture);
@@ -176,6 +186,16 @@ namespace Projekat_GDI_MemoryCardGame.Properties {
         internal static System.Drawing.Bitmap Card9 {
             get {
                 object obj = ResourceManager.GetObject("Card9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cherry {
+            get {
+                object obj = ResourceManager.GetObject("cherry", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
