@@ -4,8 +4,8 @@
 #include <stdlib.h>  // standard library (set of standard C functions
 #include <math.h>    // Math library (Higher math functions )
 #include <string.h>
-// lighting
-GLfloat LightAmbient[] = {1.0f, 0.0, 0.0f};
+// Svetla
+GLfloat LightAmbient[] = {0.0, 0.0, 1.0};
 GLfloat LightDiffuse[] = {1.0f, 1.0f, 1.0f, 1.0f};
 GLfloat LightPosition[] = {0.0, 1.0, 0.0, 1.0};
 GLfloat LightSpecular[] = {1.0, 1.0, 1.0, 1.0};
@@ -337,7 +337,7 @@ void display(void)
 
 
         glEnable(GL_LIGHTING);
-
+//kameraa
         gluLookAt(0, 0, 20, 0, 0, 0, 0, 1, 0);
         // Draw Grid
         for (ix = 0; ix < 4; ix++)
