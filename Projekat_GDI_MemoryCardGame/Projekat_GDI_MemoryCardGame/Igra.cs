@@ -13,13 +13,10 @@ namespace Projekat_GDI_MemoryCardGame
 {
     public partial class Game_Window : Form
     {
-        //Variables
-        //int score = 0; //Our Scores
-        Random location = new Random(); //Selects a random value from X and Y list and assign a new location to each card
-        List<Point> points = new List<Point>(); //List to hold cards points
-        //bool again = false; //Play again or no
-        PictureBox PendingImage1; //Store first flipped card into this variable
-        PictureBox PendingImage2;//----- Second -------------------------------
+        Random location = new Random(); //random lokacija za X i Y za kartu
+        List<Point> points = new List<Point>();
+        PictureBox PendingImage1; //pamćenje prve karte
+        PictureBox PendingImage2;//pamćenje druge karte
 
         public Game_Window()
         {
